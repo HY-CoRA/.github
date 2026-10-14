@@ -16,12 +16,3 @@
 | [HY-CoRA_website](https://github.com/HY-CoRA/HY-CoRA_website) | 동아리 공식 홈페이지 (프론트엔드) |
 | [HY-CoRA_website_backend](https://github.com/HY-CoRA/HY-CoRA_website_backend) | 홈페이지 백엔드 (Spring) |
 | [ASV-project](https://github.com/HY-CoRA/ASV-project) | 안산 사이언스 밸리 부스용 블록 코딩 교육 게임 — [바로 플레이](https://hy-cora.github.io/ASV-project/) |
-
-## 함께하기
-
-- 신입 부원 모집은 매 학기 초에 진행합니다. 공지는 동아리 홈페이지와 SNS에 올라옵니다.
-- 저장소에 기여하고 싶다면 이슈를 남기거나 풀 리퀘스트를 보내 주세요.
-
-## 이 저장소
-
-`.github`는 조직 공용 설정 저장소입니다. 이 소개는 `profile/README.md`를 고치면 바뀝니다.
